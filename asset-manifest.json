@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/HikersClub/static/css/main.8b4a1854.css",
+    "main.js": "/HikersClub/static/js/main.19adb7ec.js",
+    "static/media/vide.mp4": "/HikersClub/static/media/vide.ff3c74ffed1205c83120.mp4",
+    "static/media/boots.jpg": "/HikersClub/static/media/boots.72e70ebbccbb4c5248d1.jpg",
+    "static/media/kalsubai.jpeg": "/HikersClub/static/media/kalsubai.0b8f143cc21a7f26a379.jpeg",
+    "static/media/bag.jpg": "/HikersClub/static/media/bag.908ec4c1f9c39ea03ac8.jpg",
+    "static/media/jacket.jpg": "/HikersClub/static/media/jacket.782f8be1ce1729a5ef74.jpg",
+    "static/media/hari.jpg": "/HikersClub/static/media/hari.48436f628d46b6e42d2d.jpg",
+    "static/media/ds.jpg": "/HikersClub/static/media/ds.66cec92b70c710479381.jpg",
+    "static/media/kal.avif": "/HikersClub/static/media/kal.b0ced84e4d247cad485b.avif",
+    "static/media/gloves.jpg": "/HikersClub/static/media/gloves.bb154303eb3d17204270.jpg",
+    "static/media/KW.jpg": "/HikersClub/static/media/KW.f9cfc854defae0b65dbc.jpg",
+    "static/media/sandhan.jpg": "/HikersClub/static/media/sandhan.61ae375c304a36f13058.jpg",
+    "static/media/gear.jpg": "/HikersClub/static/media/gear.981d166c16a1c7c0a725.jpg",
+    "static/media/korigad.jpg": "/HikersClub/static/media/korigad.e82236b0feb4b3623588.jpg",
+    "static/media/rajg.jpg": "/HikersClub/static/media/rajg.9b690150f1da2c957486.jpg",
+    "static/media/rajgad.jpg": "/HikersClub/static/media/rajgad.c0871cc09e4a9707bac4.jpg",
+    "static/media/HF.jpg": "/HikersClub/static/media/HF.2fa22e8a093ac7d2cccb.jpg",
+    "static/media/logo.png": "/HikersClub/static/media/logo.e22381621c833bda93f1.png",
+    "static/media/devk.jpeg": "/HikersClub/static/media/devk.433e2b186a7d31e312e9.jpeg",
+    "index.html": "/HikersClub/index.html",
+    "main.8b4a1854.css.map": "/HikersClub/static/css/main.8b4a1854.css.map",
+    "main.19adb7ec.js.map": "/HikersClub/static/js/main.19adb7ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4a1854.css",
+    "static/js/main.19adb7ec.js"
+  ]
+}
