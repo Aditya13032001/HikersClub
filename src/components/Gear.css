@@ -1,0 +1,61 @@
+.gear__container {
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.card1 {
+  width: 30vh;
+  height: 50vh;
+  background-image: url("../assets/bag.jpg");
+  border-radius: 10px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.2s linear;
+}
+
+.card2 {
+  width: 30vh;
+  height: 50vh;
+  background-image: url("../assets/gloves.jpg");
+  border-radius: 10px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card3 {
+  width: 30vh;
+  height: 50vh;
+  background-image: url("../assets/boots.jpg");
+  border-radius: 10px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card4 {
+  width: 30vh;
+  height: 50vh;
+  background-image: url("../assets/jacket.jpg");
+  border-radius: 10px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cards-container {
+  margin: auto;
+  height: 58vh;
+  width: 100%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.card4:hover,
+.card3:hover,
+.card2:hover,
+.card1:hover {
+  transform: scale(1.1);
+  transition-duration: 0.1s;
+}

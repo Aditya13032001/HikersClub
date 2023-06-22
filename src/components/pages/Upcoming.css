@@ -1,0 +1,63 @@
+.upcoming {
+  background-image: url("../../assets/kal.avif");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 60px;
+}
+
+.header {
+  text-align: center;
+  color: #000;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+}
+
+.upcoming__container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.upcoming__wrapper {
+  position: relative;
+  margin: 50px 0 45px;
+}
+
+.upcoming__items {
+  margin-bottom: 24px;
+}
+
+.btnss {
+  margin-left: 500px;
+}
+
+@media only screen and (min-width: 1200px) {
+  .content__blog__container {
+    width: 84%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .upcoming__items {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .upcoming__item {
+    margin-bottom: 2rem;
+  }
+  .upcoming {
+    font-size: 30px;
+  }
+  .btnss {
+    margin: auto;
+  }
+}

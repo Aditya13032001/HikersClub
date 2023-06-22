@@ -1,0 +1,55 @@
+.products {
+  background-image: url("../../assets/gear.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.products > h1 {
+  text-align: center;
+  color: #fff;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+}
+.down {
+  margin-top: auto;
+  margin-left: 100vh;
+  cursor: pointer;
+}
+
+.down :hover {
+  color: #000;
+}
+@media only screen and (min-width: 1200px) {
+  .content__blog__container {
+    width: 84%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .upcoming__items {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .upcoming__item {
+    margin-bottom: 2rem;
+  }
+  .products {
+    font-size: 30px;
+  }
+  .btnss {
+    margin: auto;
+  }
+  .down {
+    margin: auto;
+  }
+}
